@@ -15,7 +15,7 @@ Supporting materials related to this work are available via the following links:
 |**Link**|Description
 |:-------|:----------
 |http://www.utdallas.edu/%7Ekehtar/WebBasedFitting.html| Web-based Compression Fitting 
-|http://www.utdallas.edu/%7Ekehtar/EducationalCompressionFitting.mp4| A videoclip showing the web-based compression program and the compression app
+|https://personal.utdallas.edu/~kehtar/EducationalCompressionFitting.mp4| A videoclip showing the web-based compression program and the compression app
 
 ## Getting Started
 
